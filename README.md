@@ -17,7 +17,6 @@ I'm a student 🎓 veteran at the Georgia Institute of Technology studying
 <h3 align="center">:point_right: Current Studies and Interests</h3>
 
 - 🌱 I'm currently interested in statistical theory, machine learning, deep learning, and data science in various fields.
-- 💞️ I’m open to collaborate on projects related to mathematical statistics and machine learning!
 - 📫 You can email me at barton.austin.t@gmail.com or message me through my LinkedIn.
 
 <!---
