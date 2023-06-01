@@ -1,6 +1,5 @@
 <h2 align="center">👋 Hello, I'm Austin.</h2>
 <p align="center">
-  <a href="https://github.com/austintbarton/resume/blob/main/Barton_Austin_T_Resume_04_17.pdf">Resume</a> •
   <a href="https://www.linkedin.com/in/austin-b-a525651a7">LinkedIn</a>
 </p>
 
