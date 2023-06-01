@@ -10,7 +10,10 @@ I'm a student veteran 🎓 at the Georgia Institute of Technology studying
 -------
 <h3 align="center">🍎 About Me</h3>
 
-- :microscope: Incoming REU Student Researcher at Department of Math and Statistics at [NC State University](https://drums.wordpress.ncsu.edu/parameter-estimation-and-analysis-for-agent-based-models-in-biology-kevin-flores/) where I will be researching parameter estimation and analysis in agent-based models
+- :microscope: Current REU Student Researcher at the Department of Math and Statistics at [NC State University](https://drums.wordpress.ncsu.edu/parameter-estimation-and-analysis-for-agent-based-models-in-biology-kevin-flores/) where I am researching learning differential equation models
+from agent based models of disease
+
+spread and adaptive behavior
 - :goat: Rock climbing enthusiast
 - 🏋️ Lifter 
 - 🏄‍♂️ I enjoy surfing, snowboarding, and lots of outdoor sports in general
