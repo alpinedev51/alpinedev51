@@ -15,6 +15,7 @@ from agent based models of disease spread using biologically-informed neural net
 
 spread and adaptive behavior
 - :goat: Rock climbing enthusiast
+- 🚴 Mountain Biking noobie
 - 🏋️ Lifter 
 - 🏄‍♂️ I enjoy surfing, snowboarding, and lots of outdoor sports in general
 - ⚓ Marine veteran. Served 4 years active duty as an infantry assaultman
