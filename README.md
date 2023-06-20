@@ -10,7 +10,7 @@ I'm a student veteran 🎓 at the Georgia Institute of Technology studying
 -------
 <h3 align="center">🍎 About Me</h3>
 
-- :microscope: Current NSF sponsored REU Researcher at the Department of Math and Statistics at [NC State University](https://drums.wordpress.ncsu.edu/parameter-estimation-and-analysis-for-agent-based-models-in-biology-kevin-flores/) where I am researching learning differential equations from agent-based models with adaptive behaviors in biology using biologically-informed neural networks and sparse regression techniques.
+- :microscope: Current NSF sponsored REU Researcher at the Department of Math and Statistics at [NC State University](https://drums.wordpress.ncsu.edu/parameter-estimation-and-analysis-for-agent-based-models-in-biology-kevin-flores/) where I am researching learning differential equations from agent-based models with adaptive behaviors in biology using biologically-informed neural networks and sparse regression techniques
 
 - :goat: Rock climbing enthusiast
 - 🚴 Mountain biking noobie
