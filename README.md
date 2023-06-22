@@ -12,9 +12,9 @@ I'm a student veteran 🎓 at the Georgia Institute of Technology studying
 
 - :microscope: Current Researcher at the NSF sponsored REU in mathematics hosted by the Department of Math and Statistics at [NC State University](https://drums.wordpress.ncsu.edu/parameter-estimation-and-analysis-for-agent-based-models-in-biology-kevin-flores/) where I am researching learning differential equations from agent-based models with adaptive behaviors in biology using biologically-informed neural networks and sparse regression techniques
 
-- :goat: Rock climbing enthusiast
-- 🚴 Mountain biking noobie
-- 🏋️ Lifter 
+- 🐐 Rock climbing enthusiast
+- 🚴 Mountain biking enjoyer
+- 🏋️ Lifter
 - 🏄‍♂️ I enjoy surfing, snowboarding, and lots of outdoor sports in general
 - ⚓ Marine veteran. Served 4 years active duty as an infantry assaultman
 -------
