@@ -14,8 +14,8 @@ I'm a student veteran 🎓 at the Georgia Institute of Technology studying
 
 - 🐐 Rock climbing enthusiast
 - 🚴 Mountain biking enjoyer
-- 🏋️ Lifter
 - 🏄‍♂️ I enjoy surfing, snowboarding, and lots of outdoor sports in general
+- 🏋️ Lifter
 - ⚓ Marine veteran. Served 4 years active duty as an infantry assaultman
 -------
 <h3 align="center">:point_right: Current Studies and Interests</h3>
