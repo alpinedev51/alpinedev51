@@ -10,7 +10,7 @@ I'm a student veteran 🎓 at the Georgia Institute of Technology studying
 -------
 <h3 align="center">🍎 About Me</h3>
 
-- :microscope: Current Researcher at the NSF sponsored REU in mathematics hosted by the Department of Math and Statistics at [NC State University](https://drums.wordpress.ncsu.edu/parameter-estimation-and-analysis-for-agent-based-models-in-biology-kevin-flores/) where I am researching learning differential equations from agent-based models with adaptive behaviors in biology using biologically-informed neural networks and sparse regression techniques
+- :microscope: Current Researcher at the NSF sponsored REU in Mathematics hosted by the Department of Math and Statistics at [NC State University](https://drums.wordpress.ncsu.edu/parameter-estimation-and-analysis-for-agent-based-models-in-biology-kevin-flores/) where I am researching learning differential equations for agent-based models with adaptive behaviors in biology using biologically-informed neural networks and sparse regression techniques.
 
 - 🐐 Rock climbing enthusiast
 - 🚴 Mountain biking enjoyer
@@ -20,8 +20,8 @@ I'm a student veteran 🎓 at the Georgia Institute of Technology studying
 -------
 <h3 align="center">:point_right: Current Studies and Interests</h3>
 
-- 🌱 I'm currently interested in statistical theory, machine learning, deep learning, and data science in various fields. I find environmental sciences, computer vision, and sustainable energy particularly motivating fields of application
-- 🌳 I'm interested in projects that expand the fields of statistics and data science or have applications to environmental conservation, sustainable enery, and/or computer vision
+- 🌱 I'm currently interested in statistical theory, machine learning, deep learning, and data science in various fields. I find environmental sciences, computer vision, and sustainable energy particularly motivating fields of application. I have an affinity towards understanding theory and rigorous mathematics that has profound applications
+- 🌳 I'm interested in projects that expand the fields of math, statistics, and data science and/or have applications to environmental conservation, sustainable enery, and/or computer vision
 - 🗣️ Feel free to contact me if you are interested in possibly recruiting me for a position or if you just want to chat!
 - 📫 You can email me at barton.austin.t@gmail.com or message me through my LinkedIn
 
