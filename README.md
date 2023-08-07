@@ -17,7 +17,7 @@ I'm a student veteran 🎓 at the Georgia Institute of Technology studying
 -------
 <h3 align="center">:point_right: Current Studies and Interests</h3>
 
-- 🌱 I'm currently interested in statistical theory, machine learning, deep learning, and data science in various fields. I find environmental sciences, computer vision, and sustainable energy particularly motivating fields of application. I have an affinity towards understanding theory and rigorous mathematics that have profound applications
+- 🌱 I'm interested in statistical theory, machine learning, deep learning, and data science in various fields. I find environmental sciences, computer vision, and sustainable energy particularly motivating fields of application. I have an affinity towards understanding theory and rigorous mathematics that have profound applications
 - 🌳 I'm interested in projects that expand the fields of math, statistics, and data science and/or have applications to environmental conservation, sustainable enery, and/or computer vision
 - 🗣️ Feel free to contact me if you are interested in possibly recruiting me for a position or if you just want to chat!
 - 📫 You can email me at barton.austin.t@gmail.com or message me through my LinkedIn linked above
