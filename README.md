@@ -5,7 +5,7 @@
 
 I'm a student veteran 🎓 at the Georgia Institute of Technology studying
 - :pencil2: **Mathematics** for Probability & Statistics
-- 🖱️ **Computer Science** for Machine Learning & Information Interworks
+- 🖱️ **Computer Science** for Artificial Intelligence & Information Interworks
 
 -------
 <h3 align="center">🍎 About Me</h3>
