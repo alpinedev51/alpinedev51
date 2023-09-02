@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello, I'm Austin.</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/austin-b-a525651a7">LinkedIn  </a>
-  <a href="https://gatech-csm.symplicity.com/profiles/austin.barton">  GA Tech Career Buzz</a>
+  <a href="https://www.linkedin.com/in/austin-b-a525651a7">LinkedIn</a>
+  <a href="https://gatech-csm.symplicity.com/profiles/austin.barton">Career Buzz</a>
 </p>
 
 I'm a student veteran 🎓 at the Georgia Institute of Technology studying
