@@ -13,7 +13,7 @@ I'm a student veteran 🎓 at the Georgia Institute of Technology studying
 - 🐐 Rock climber :mountain_bicyclist: Mountain biker 🏄‍♂️ Surfer :snowboarder: Snowboarder and :sunrise_over_mountains: Outdoor Enthusiast!
 - ⚓ Marine veteran. Served 4 years active duty as an infantry assaultman. Honorably discharged as an E-5/Sergeant.
 
-- :microscope: Over the summer of 2023, I attended the NSF and NSA sponsored REU in Mathematics hosted by the Department of Math and Statistics at [NC State University](https://drums.wordpress.ncsu.edu/parameter-estimation-and-analysis-for-agent-based-models-in-biology-kevin-flores/) where I researched parameter estimation and analysis using biologically-informed neural networks and equation learning techniques for agent-based models with adaptive behaviors.
+- :microscope: Over the summer of 2023, I attended the NSF and NSA sponsored REU in Mathematics hosted by the Department of Mathematics and Statistics at [NC State University](https://drums.wordpress.ncsu.edu/parameter-estimation-and-analysis-for-agent-based-models-in-biology-kevin-flores/) where I researched parameter estimation and analysis using biologically-informed neural networks and equation learning techniques for agent-based models with adaptive behaviors.
 -------
 <h3 align="center">:point_right: Current Studies and Interests</h3>
 
