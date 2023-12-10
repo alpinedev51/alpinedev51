@@ -21,7 +21,7 @@ I'm a student veteran 🎓 at the Georgia Institute of Technology studying
 - 🌱 I'm interested in machine learning, deep learning, and statistical theory for various fields. I have an affinity towards understanding theory and rigorous mathematics that have profound applications
 - 🌳 I'm interested in projects that expand the fields of math, statistics, and data science and/or have applications to environmental conservation, sustainable enery, and/or computer vision
 - 🗣️ Feel free to contact me if you are interested in possibly recruiting me for a position or if you just want to chat!
-- 📫 You can email me at barton.austin.t@gmail.com, message me through my LinkedIn linked above, or visit my [Career Buzz](https://gatech-csm.symplicity.com/profiles/austin.barton)
+- 📫 You can email me at barton.austin.t@gmail.com and/or message me through my LinkedIn linked above
 
 <!---
 AustinTeddyCodes/AustinTeddyCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
