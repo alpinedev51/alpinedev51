@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/austin-b-a525651a7">LinkedIn</a>
 </p>
 
-I'm a student veteran 🎓 at the Georgia Institute of Technology studying
+I'm a student veteran 🎓 at Georgia Tech studying
 - :pencil2: **Mathematics** for Probability & Statistics
 - 🖱️ **Computer Science** for Artificial Intelligence & Information Interworks
 
