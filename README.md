@@ -15,10 +15,9 @@ I'm a student veteran 🎓 at Georgia Tech studying
 
 <h3 align="center">:point_right: Current Studies and Interests</h3>
 
-- 🌱 I'm interested in machine learning, deep learning, and statistical applications for various fields. I have an affinity towards understanding theory and mathematics that have profound applications
-- 🌳 I'm interested in projects that use machine/deep learning for applications in environmental conservation, sustainable enery, CV, NLP, and/or financial markets
-- 🗣️ Feel free to contact me if you are interested in possibly recruiting me for a position or if you just want to chat!
-- 📫 You can email me at barton.austin.t@gmail.com and/or message me through my LinkedIn linked above
+- 🌱 Interested in machine learning, deep learning, and statistical applications.
+- 🌳 Interested in projects that use machine/deep learning for applications in environmental conservation, sustainable enery, CV, NLP, and/or financial markets.
+- 📫 You can email me at barton.austin.t@gmail.com and/or message me through my LinkedIn linked above.
 
 <!---
 AustinTeddyCodes/AustinTeddyCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
