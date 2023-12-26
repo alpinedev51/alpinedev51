@@ -10,7 +10,7 @@ I'm a student veteran 🎓 at Georgia Tech studying
 -------
 <h3 align="center">🍎 About Me</h3>
 
-- 🐐 Rock climbing :mountain_bicyclist: Mountain biking :runner: Running 🏄‍♂️ Surfing :snowboarder: Snowboarding and :sunrise_over_mountains: Outdoors
+- 🐐 Rock climbing :mountain_bicyclist: Mountain biking :runner: Running 🏄‍♂️ Surfing :snowboarder: Snowboarding, and :sunrise_over_mountains: Outdoors
 - ⚓ Marine veteran (Infantry assaultman, E-5).
 
 <h3 align="center">:point_right: Current Studies and Interests</h3>
