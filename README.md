@@ -14,7 +14,7 @@ Incoming SDE Intern at AWS 🖥️
 <h3 align="center">🍎 About Me</h3>
 
 - 🐐 Rock climbing :mountain_bicyclist: Mountain biking :runner: Running 🏄‍♂️ Surfing :snowboarder: Snowboarding, and :sunrise_over_mountains: Outdoors
-- ⚓ Marine veteran (Infantry assaultman, E-5).
+- ⚓ Marine veteran (Infantry assaultman, E-5/Sergeant).
 
 <h3 align="center">:point_right: Current Studies and Interests</h3>
 
