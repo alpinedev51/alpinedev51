@@ -18,8 +18,8 @@ Incoming SDE Intern at AWS 🖥️
 
 <h3 align="center">:point_right: Current Studies and Interests</h3>
 
-- 🌱 Interested in machine learning, deep learning, and statistical applications.
-- 🌳 Interested in projects that use machine/deep learning for many different applications such as environmental conservation, sustainable enery, CV, NLP, and/or financial markets.
+- 🌱 Passionate about machine learning, deep learning, math, and statistics.
+- 🌳 Interested in projects that use machine/deep learning for many different applications such as environmental conservation, sustainable enery, CV, NLP, etc.
 - 📊 I like data. Storing data, handling data safely and securely, and (my favorite aspect) utilizing the data to make impactful decisions and insights.
 - 📫 You can email me at barton.austin.t@gmail.com and/or message me through my LinkedIn linked above.
 
