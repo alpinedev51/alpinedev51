@@ -24,6 +24,7 @@ Incoming SDE Intern at AWS 🖥️
 - 📫 You can email me at barton.austin.t@gmail.com and/or message me through my LinkedIn linked above.
 
 <h3 align="center">:point_right: Languages, Libraries, etc.</h3>
+
 ---
 ![alt text](https://img.shields.io/badge/-Git-F05032.svg?&style=flat&logo=git&logoColor=white)
 ![alt text](https://img.shields.io/badge/-MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)
