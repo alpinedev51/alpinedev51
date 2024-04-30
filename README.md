@@ -23,6 +23,7 @@ Incoming SDE Intern at AWS 🖥️
 - 📊 I like data. Storing data, handling data safely and securely, and utilizing the data to make impactful decisions and insights.
 - 📫 You can email me at barton.austin.t@gmail.com and/or message me through my LinkedIn linked above.
 
+<!--_
 <h3 align="center">:point_right: Languages, Libraries, etc.</h3>
 
 ![alt text](https://img.shields.io/badge/-Git-F05032.svg?&style=flat&logo=git&logoColor=white)
@@ -34,6 +35,7 @@ Incoming SDE Intern at AWS 🖥️
 ![alt text](https://img.shields.io/badge/-Scikit--learn-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white)
 ![alt text](https://img.shields.io/badge/-LangChain-6CBB3C.svg?&style=flat&logo=langchain&logoColor=white)
 ![alt text](https://img.shields.io/badge/-Java-F7DF1E.svg?&style=flat&logo=javas&logoColor=white)
+--->
 
 <!---
 AustinTeddyCodes/AustinTeddyCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
