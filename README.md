@@ -33,6 +33,7 @@ Incoming SDE Intern at AWS 🖥️
 ![alt text](https://img.shields.io/badge/-PyTorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white)
 ![alt text](https://img.shields.io/badge/-Scikit--learn-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white)
 ![alt text](https://img.shields.io/badge/-LangChain-6CBB3C.svg?&style=flat&logo=langchain&logoColor=white)
+![alt text](https://img.shields.io/badge/-Java-F7DF1E.svg?&style=flat&logo=javas&logoColor=white)
 
 <!---
 AustinTeddyCodes/AustinTeddyCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
