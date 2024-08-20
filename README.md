@@ -48,7 +48,7 @@ I have experience with:
 
 **Database Technologies**
 
-![alt text](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![alt text](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Data Science/AI/ML Technologies**
 
