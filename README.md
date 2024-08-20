@@ -44,7 +44,7 @@ I have experience with:
 ![alt text](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![alt text](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
 ![alt text](https://img.shields.io/badge/Amazon%20IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white)
-![alt text](https://img.shields.io/badge/AWS%20Glue-4053D6?style=for-the-badge&logoColor=white)
+![alt text](https://img.shields.io/badge/AWS%20Glue-232F3E?style=for-the-badge&logoColor=white)
 ![alt text](https://img.shields.io/badge/Amazon%20Cloudwatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 
 **Database Technologies**
