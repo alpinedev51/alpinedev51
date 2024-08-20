@@ -42,7 +42,7 @@ I have experience with:
 ![alt text](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![alt text](https://img.shields.io/badge/Amazon%20Cloudwatch-4053D6?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 ![alt text](https://img.shields.io/badge/Amazon%20Glue%20Crawler-4053D6?style=for-the-badge&logo=Amazon%20Glue%20Crawler&logoColor=white)
-![alt text](https://img.shields.io/badge/Amazon%20-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![alt text](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
 
 **Database Technologies**
 
