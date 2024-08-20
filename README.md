@@ -18,7 +18,7 @@ Former SDE Intern at Amazon Web Services (AWS) for Summer of 2024 🖥️
 
 <h3 align="center">:point_right: Current Studies and Interests</h3>
 
-- 🌱 Passionate about machine learning, deep learning, math, and statistics.
+- 🌱 Passionate about machine learning, deep learning, math, statistics, and full stack engineering.
 - 🌳 Interested in projects that use machine/deep learning for many different applications such as environmental conservation, sustainable enery, security, financial services, etc.
 - 📊 I like data. Storing data, handling data safely and securely, and utilizing the data to make impactful decisions and insights.
 - 📫 You can email me at barton.austin.t@gmail.com and/or message me through my LinkedIn linked above.
