@@ -42,8 +42,9 @@ I have experience with:
 ![alt text](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![alt text](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![alt text](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![alt text](https://img.shields.io/badge/Amazon%20IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white)
 ![alt text](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
+![alt text](https://img.shields.io/badge/Amazon%20IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white)
+![alt text](https://img.shields.io/badge/AWS%20Glue-4053D6?style=for-the-badge&logoColor=white)
 ![alt text](https://img.shields.io/badge/Amazon%20Cloudwatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 
 **Database Technologies**
@@ -52,11 +53,12 @@ I have experience with:
 
 **Data Science/AI/ML Technologies**
 
+![alt text](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![alt text](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![alt text](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![alt text](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![alt text](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![alt text](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![alt text](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![alt text](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
 <!--_
 <h3 align="center">:point_right: Languages, Libraries, etc.</h3>
