@@ -38,7 +38,7 @@ I have experience with:
 ![alt text](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![alt text](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![alt text](https://img.shields.io/badge/Amazon%20S3-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![alt text](https://img.shields.io/badge/AWS%20Lambda-4053D6?style=for-the-badge&logo=awslambda&logoColor=white)
+![alt text](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![alt text](https://img.shields.io/badge/Amazon%20Glue%20ETL-4053D6?style=for-the-badge&logo=Amazon%20Glue%20ETL&logoColor=white)
 ![alt text](https://img.shields.io/badge/Amazon%20Glue%20Crawler-4053D6?style=for-the-badge&logo=Amazon%20Glue%20Crawler&logoColor=white)
 ![alt text](https://img.shields.io/badge/Amazon%20-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
