@@ -8,7 +8,7 @@ I'm a student veteran 🎓 at Georgia Tech studying
 - :pencil2: **Mathematics** for Probability & Statistics
 - 🖱️ **Computer Science** for Artificial Intelligence & Information Interworks
 
-Former SDE Intern at Amazon Web Services (AWS) 🖥️
+Former SDE Intern at Amazon Web Services (AWS) for Summer of 2024 🖥️
 
 -------
 <h3 align="center">🍎 About Me</h3>
