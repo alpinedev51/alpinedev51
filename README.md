@@ -35,9 +35,9 @@ I have experience with:
 
 **Cloud Computing**
 
-![alt text](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![alt text](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![alt text](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![alt text](https://img.shields.io/badge/Amazon%20S3-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![alt text](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![alt text](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![alt text](https://img.shields.io/badge/Amazon%20Glue%20ETL-4053D6?style=for-the-badge&logo=Amazon%20Glue%20ETL&logoColor=white)
 ![alt text](https://img.shields.io/badge/Amazon%20Glue%20Crawler-4053D6?style=for-the-badge&logo=Amazon%20Glue%20Crawler&logoColor=white)
