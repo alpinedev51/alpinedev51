@@ -32,7 +32,7 @@ I have experience with:
 ![alt text](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=blue)
 ![alt text](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![alt text](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![alt text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![alt text](https://img.shields.io/badge/TeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 **Cloud Computing**
 
