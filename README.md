@@ -12,7 +12,7 @@ Former SDE Intern at Amazon Web Services (AWS) for Summer of 2024 🖥️
 -------
 <h3 align="center">🍎 About Me</h3>
 
-- 🐐 Rock climbing :mountain_bicyclist: Mountain biking :runner: Running 🏄‍♂️ Surfing :snowboarder: Snowboarding, and :sunrise_over_mountains: Outdoors
+- :brazil: BJJ :mountain_bicyclist: Mountain biking 🐐 Rock climbing :runner: Running 🏄‍♂️ Surfing :snowboarder: Snowboarding, and :sunrise_over_mountains: Outdoors
 - ⚓ Marine veteran (Infantry assaultman, E-5/Sergeant).
 
 <h3 align="center">:point_right: Current Studies and Interests</h3>
