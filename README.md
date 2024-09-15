@@ -34,19 +34,6 @@ I have experience with:
 ![alt text](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![alt text](https://img.shields.io/badge/TeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-**Cloud Computing**
-
-![alt text](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![alt text](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
-
-![alt text](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![alt text](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![alt text](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![alt text](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
-![alt text](https://img.shields.io/badge/Amazon%20IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white)
-![alt text](https://img.shields.io/badge/AWS%20Glue-150458?style=for-the-badge&logoColor=white)
-![alt text](https://img.shields.io/badge/Amazon%20Cloudwatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-
 **Database Technologies**
 
 ![alt text](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -64,6 +51,25 @@ I have experience with:
 
 ![alt text](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![alt text](https://img.shields.io/badge/GNU-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+
+**Virutalization and Containerization**
+
+![alt text](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![alt text](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+
+**Cloud Computing Technologies**
+
+![alt text](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![alt text](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+
+![alt text](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![alt text](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![alt text](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![alt text](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
+![alt text](https://img.shields.io/badge/Amazon%20IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white)
+![alt text](https://img.shields.io/badge/AWS%20Glue-150458?style=for-the-badge&logoColor=white)
+![alt text](https://img.shields.io/badge/Amazon%20Cloudwatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 
 
 
