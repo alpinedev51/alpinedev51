@@ -48,6 +48,12 @@ I have experience with:
 ![alt text](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![alt text](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
+**Web Development**
+
+![alt text](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![alt text](https://img.shields.io/badge/Node-61DAFB?style=for-the-badge&logo=node&logoColor=white)
+
+
 **Systems**
 
 ![alt text](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
