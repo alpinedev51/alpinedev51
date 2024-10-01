@@ -51,7 +51,7 @@ I have experience with:
 **Web Development**
 
 ![alt text](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![alt text](https://img.shields.io/badge/Node-61DAFB?style=for-the-badge&logo=node&logoColor=white)
+![alt text](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 **Systems**
