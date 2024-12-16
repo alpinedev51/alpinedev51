@@ -55,6 +55,7 @@ I have experience with:
 
 **Systems**
 
+![alt text](https://img.shields.io/badge/LinuxMint-86BE43?style=for-the-badge&logo=linuxmint&logoColor=white)
 ![alt text](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![alt text](https://img.shields.io/badge/GNU-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
 
