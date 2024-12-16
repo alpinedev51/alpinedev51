@@ -56,6 +56,7 @@ I have experience with:
 **Systems**
 
 ![alt text](https://img.shields.io/badge/LinuxMint-86BE43?style=for-the-badge&logo=linuxmint&logoColor=white)
+![alt text](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![alt text](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![alt text](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![alt text](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
