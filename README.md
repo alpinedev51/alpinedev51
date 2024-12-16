@@ -27,9 +27,10 @@ I have experience with:
 
 ![alt text](https://img.shields.io/badge/Python-4776AB?style=for-the-badge&logo=python&logoColor=blue)
 ![alt text](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=blue)
+![alt text](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![alt text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![alt text](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![alt text](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![alt text](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![alt text](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![alt text](https://img.shields.io/badge/TeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
