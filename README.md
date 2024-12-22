@@ -62,6 +62,7 @@ I have experience with:
 ![alt text](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![alt text](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![alt text](https://img.shields.io/badge/GNU-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+![alt text](https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspoberrypi&logoColor=white)
 
 **Virtualization and Containerization**
 
