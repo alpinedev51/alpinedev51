@@ -107,7 +107,3 @@ I have experience with:
 ![alt text](https://img.shields.io/badge/-Java-F7DF1E.svg?&style=flat&logo=javas&logoColor=white)
 --->
 
-<!---
-AustinTeddyCodes/AustinTeddyCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
