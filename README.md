@@ -1,6 +1,6 @@
-<h2 align="center">👋 Hello, I'm Austin.</h2>
+<h2 align="center">👋 Hello</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/austin-b-a525651a7">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/austin-b-a525651a7">Connect With Me Here</a>
 </p>
 
 I'm a student veteran 🎓 at Georgia Tech studying
