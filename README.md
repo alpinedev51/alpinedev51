@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/austin-b-a525651a7">Connect With Me Here</a>
+  <a href="https://www.linkedin.com/in/austin-b-a525651a7">Connect</a>
 </p>
 
 I'm a student veteran 🎓 at Georgia Tech studying
@@ -90,19 +90,3 @@ I have experience with:
 ![alt text](https://img.shields.io/badge/Amazon%20IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white)
 ![alt text](https://img.shields.io/badge/AWS%20Glue-150458?style=for-the-badge&logoColor=white)
 ![alt text](https://img.shields.io/badge/Amazon%20Cloudwatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-
-
-
-<!--_
-<h3 align="center">:point_right: Languages, Libraries, etc.</h3>
-
-![alt text](https://img.shields.io/badge/-Git-F05032.svg?&style=flat&logo=git&logoColor=white)
-![alt text](https://img.shields.io/badge/-MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)
-![alt text](https://img.shields.io/badge/-NumPy-013243.svg?&style=flat&logo=numpy&logoColor=white)
-![alt text](https://img.shields.io/badge/-Pandas-150458.svg?&style=flat&logo=pandas&logoColor=white)
-![alt text](https://img.shields.io/badge/-Python-3776AB.svg?&style=flat&logo=python&logoColor=white)
-![alt text](https://img.shields.io/badge/-PyTorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white)
-![alt text](https://img.shields.io/badge/-Scikit--learn-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white)
-![alt text](https://img.shields.io/badge/-LangChain-6CBB3C.svg?&style=flat&logo=langchain&logoColor=white)
-![alt text](https://img.shields.io/badge/-Java-F7DF1E.svg?&style=flat&logo=javas&logoColor=white)
---->
