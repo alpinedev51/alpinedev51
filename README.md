@@ -21,7 +21,7 @@ Former SDE Intern at Amazon Web Services (AWS) for Summer of 2024 🖥️
 - 🌳 Interested in projects that use data science for various applications in information security such as anomaly detection, adversarial machine learning, vulnerability detection, building SIEM tools, and behavior analytics.
 
 ---
-<p align="center"> Experiences </p>
+<p align="center"> <b>Experiences</b> </p>
 
 **Languages**
 
