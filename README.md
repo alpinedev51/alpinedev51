@@ -1,6 +1,5 @@
 <h2 align="center">👋 Hello</h2>
 
--------
 <h3 align="center">🍎 About Me</h3>
 
 - 🌱 Passionate about information security, data science, math, and full stack engineering.
